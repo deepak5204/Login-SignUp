@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# LoginSignUp component
+
+##  Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## LoginSignUp component
 This React component provides a simple login/signup interface for users.
 
 ### Description
