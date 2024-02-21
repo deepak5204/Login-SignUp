@@ -40,17 +40,17 @@ export default App;
 
 ### Features
 
-..* Allows users to either log in or sign up.
-..* Input fields for email and password.
-..* Additional input field for name when signing up.
-..* Option to reset password when logging in.
+* Allows users to either log in or sign up.
+* Input fields for email and password.
+* Additional input field for name when signing up.
+* Option to reset password when logging in.
 
 
 
 ### File Structure
-..* loginSignup.jsx: Contains the main component code.
-..* loginSignup.css: Contains the styles for the component.
-..* Assets: Contains images used in the component.
+* loginSignup.jsx: Contains the main component code.
+* loginSignup.css: Contains the styles for the component.
+* Assets: Contains images used in the component.
 
 
 ### `npm run build`
