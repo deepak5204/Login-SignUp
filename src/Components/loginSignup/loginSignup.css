@@ -54,10 +54,9 @@
 .input input{
     height: 50px;
     width: 400px;
-    /* background: transparent; */
     border: none;
     outline: none;
-    /* color: #242020; */
+    color: #242020;
     font-size: 19px;
 }
 
@@ -76,7 +75,7 @@
 
 .submit-container{
     display: flex;
-    gap: 30px;
+    gap: 25px;
     margin: 60px auto;
 }
 
@@ -92,4 +91,9 @@
     font-size: 19px;
     font-weight: 700;
     cursor: pointer;
+}
+
+.gray{
+    background: #EAEAEA;
+    color: #676767;
 }
