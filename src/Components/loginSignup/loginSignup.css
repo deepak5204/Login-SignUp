@@ -3,6 +3,7 @@
     flex-direction: column;
     margin: auto;
     margin-top: 200px;
+    width: 600px;
     background: #f7f4f4;
     padding-bottom: 30px;
 }
@@ -58,4 +59,37 @@
     outline: none;
     /* color: #242020; */
     font-size: 19px;
+}
+
+.forgot-password{
+    padding-left: 62px;
+    margin-top: 27px;
+    color: #797979;
+    font-size: 18px;   
+}
+
+
+.forgot-password span{
+    color: #0b0b8e;
+    cursor: pointer;
+}
+
+.submit-container{
+    display: flex;
+    gap: 30px;
+    margin: 60px auto;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    height: 59px;
+    color: #efe3e3;
+    background: #4c00b4;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
 }
